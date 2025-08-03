@@ -1,0 +1,881 @@
+"kodjaz","akrcis","kodcis","chodnota","zkrtext","text","admplod","admnepo","kod_sdmx"
+"CS","LSTOBC",3228,"100","Bulharsko","Bulharská republika","2009-01-01","9999-09-09","BG"
+"CS","LSTOBC",3228,"1000","Česká republika a Bulharsko","Česká republika a Bulharská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"100031","Bulharsko a Ázerbájdžán","Bulharsko a Ázerbájdžán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100051","Bulharsko a Arménie","Bulharsko a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100112","Bulharsko a Bělorusko","Bulharsko a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100124","Bulharsko a Kanada","Bulharsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100276","Bulharsko a Německo","Bulharsko a Německo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100300","Bulharsko a Řecko","Bulharsko a Řecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100376","Bulharsko a Izrael","Bulharsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1004","Česká republika a Myanmar","Česká republika a Svaz Myanmar","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"100498","Bulharsko a Moldavsko","Bulharsko a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100616","Bulharsko a Polsko","Bulharsko a Polsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100643","Bulharsko a Ruská federace","Bulharsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100688","Bulharsko a Srbsko","Bulharsko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100703","Bulharsko a Slovensko","Bulharsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100704","Bulharsko a Vietnam","Bulharsko a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100710","Bulharsko a Jižní Afrika","Bulharsko a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100792","Bulharsko a Turecko","Bulharsko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1008","Česká republika a Burundi","Česká republika a Republika Burundi","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"100804","Bulharsko a Ukrajina","Bulharsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100807","Bulharsko a Makedonie, bývalá jugoslávská republika","Bulharsko a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100826","Bulharsko a Spojené království","Bulharsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"100840","Bulharsko a Spojené státy","Bulharsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1012","Česká republika a Bělorusko","Česká republika a Běloruská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1016","Česká republika a Kambodža","Česká republika a Kambodžské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1020","Česká republika a Kamerun","Česká republika a Kamerunská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1024","Česká republika a Kanada","Česká republika a Kanada","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1032","Česká republika a Kapverdy","Česká republika a Kapverdská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1036","Česká republika a Kajmanské ostrovy","Česká republika a Kajmanské ostrovy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"104","Myanmar","Svaz Myanmar","2009-01-01","9999-09-09","MM"
+"CS","LSTOBC",3228,"1040","Česká republika a Středoafrická republika","Česká republika a Středoafrická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1044","Česká republika a Srí Lanka","Česká republika a Srílanská demokratická socialistická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1048","Česká republika a Čad","Česká republika a Čadská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1052","Česká republika a Chile","Česká republika a Chilská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1056","Česká republika a Čína","Česká republika a Čínská lidová republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1058","Česká republika a Tchaj-wan","Česká republika a Tchaj-wan","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1070","Česká republika a Kolumbie","Česká republika a Kolumbijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1074","Česká republika a Komory","Česká republika a Komorský svaz","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1075","Česká republika a Mayotte","Česká republika a Mayotte","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1078","Česká republika a Kongo","Česká republika a Konžská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"108","Burundi","Republika Burundi","2009-01-01","9999-09-09","BI"
+"CS","LSTOBC",3228,"1080","Česká republika a Kongo, demokrat.repub.","Česká republika a Demokratická republika Kongo","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1088","Česká republika a Kostarika","Česká republika a Kostarická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1091","Česká republika a Chorvatsko","Česká republika a Chorvatská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1092","Česká republika a Kuba","Česká republika a Kubánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1096","Česká republika a Kypr","Česká republika a Kyperská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1104","Česká republika a Benin","Česká republika a Beninská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1108","Česká republika a Dánsko","Česká republika a Dánské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1112","Česká republika a Dominika","Česká republika a Dominické společenství","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1114","Česká republika a Dominikánská republika","Česká republika a Dominikánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1118","Česká republika a Ekvádor","Česká republika a Ekvádorská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"112","Bělorusko","Běloruská republika","2009-01-01","9999-09-09","BY"
+"CS","LSTOBC",3228,"112050","Bělorusko a Bangladéš","Bělorusko a Bangladéš","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1122","Česká republika a Salvador","Česká republika a Salvadorská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"112376","Bělorusko a Izrael","Bělorusko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"112398","Bělorusko a Kazachstán","Bělorusko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1126","Česká republika a Rovníková Guinea","Česká republika a Republika Rovníková Guinea","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"112643","Bělorusko a Ruská federace","Bělorusko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"112795","Bělorusko a Turkmenistán","Bělorusko a Turkmenistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"112804","Bělorusko a Ukrajina","Bělorusko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"112840","Bělorusko a Spojené státy","Bělorusko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1131","Česká republika a Etiopie","Česká republika a Etiopská federativní demokratická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1132","Česká republika a Eritrea","Česká republika a Eritrea","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1133","Česká republika a Estonsko","Česká republika a Estonská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1138","Česká republika a Falklandy (Malvíny)","Česká republika a Falklandské ostrovy (Malvíny)","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1142","Česká republika a Fidži","Česká republika a Republika Fidžijské ostrovy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1146","Česká republika a Finsko","Česká republika a Finská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1150","Česká republika a Francie","Česká republika a Francouzská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1158","Česká republika a Francouzská Polynésie","Česká republika a Francouzská Polynésie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"116","Kambodža","Kambodžské království","2009-01-01","9999-09-09","KH"
+"CS","LSTOBC",3228,"1160","Česká republika a Francouzská jižní území","Česká republika a Francouzská jižní území","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1162","Česká republika a Džibutsko","Česká republika a Džibutská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1166","Česká republika a Gabon","Česká republika a Gabonská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1168","Česká republika a Gruzie","Česká republika a Gruzie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1170","Česká republika a Gambie","Česká republika a Gambijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1175","Česká republika a Okupované palestinské území","Česká republika a Okupované palestinské území","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1176","Česká republika a Německo","Česká republika a Spolková republika Německo","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1188","Česká republika a Ghana","Česká republika a Ghanská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1196","Česká republika a Kiribati","Česká republika a Republika Kiribati","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"12","Alžírsko","Alžírská lidová demokratická republika","2009-01-01","9999-09-09","DZ"
+"CS","LSTOBC",3228,"120","Kamerun","Kamerunská republika","2009-01-01","9999-09-09","CM"
+"CS","LSTOBC",3228,"1200","Česká republika a Řecko","Česká republika a Řecká republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1208","Česká republika a Grenada","Česká republika a Grenada","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"120840","Kamerun a Spojené státy","Kamerun a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1220","Česká republika a Guatemala","Česká republika a Guatemalská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1224","Česká republika a Guinea","Česká republika a Guinejská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1228","Česká republika a Guyana","Česká republika a Guyanská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1232","Česká republika a Haiti","Česká republika a Haitská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1236","Česká republika a Svatý stolec (Vatikán)","Česká republika a Svatý stolec (Vatikánský městský stát)","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"124","Kanada","Kanada","2009-01-01","9999-09-09","CA"
+"CS","LSTOBC",3228,"1240","Česká republika a Honduras","Česká republika a Honduraská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"124156","Kanada a Čína","Kanada a Čína","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124268","Kanada a Gruzie","Kanada a Gruzie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124340","Kanada a Honduras","Kanada a Honduras","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124356","Kanada a Indie","Kanada a Indie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124364","Kanada a Írán (islámská republika)","Kanada a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124368","Kanada a Irák","Kanada a Irák","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124376","Kanada a Izrael","Kanada a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"124760","Kanada a Syrská arabská republika","Kanada a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1248","Česká republika a Maďarsko","Česká republika a Maďarská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"124840","Kanada a Spojené státy","Kanada a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1252","Česká republika a Island","Česká republika a Islandská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1256","Česká republika a Indie","Česká republika a Indická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1260","Česká republika a Indonésie","Česká republika a Indonéská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1264","Česká republika a Írán","Česká republika a Íránská islámská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1268","Česká republika a Irák","Česká republika a Irácká republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1272","Česká republika a Irsko","Česká republika a Irsko","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1276","Česká republika a Izrael","Česká republika a Stát Izrael","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1280","Česká republika a Itálie","Česká republika a Italská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1284","Česká republika a Pobřeží Slonoviny","Česká republika a Republika Pobřeží Slonoviny","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1288","Česká republika a Jamajka","Česká republika a Jamajka","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1292","Česká republika a Japonsko","Česká republika a Japonsko","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1298","Česká republika a Kazachstán","Česká republika a Republika Kazachstán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1300","Česká republika a Jordánsko","Česká republika a Jordánské hášimovské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1304","Česká republika a Keňa","Česká republika a Keňa","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1308","Česká republika a Korea, lidově dem. rep.","Česká republika a Korejská lidově demokratická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1310","Česká republika a Korejská republika","Česká republika a Korejská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1314","Česká republika a Kuvajt","Česká republika a Stát Kuvajt","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1317","Česká republika a Kyrgyzstán","Česká republika a Kyrgyzská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1318","Česká republika a Laos","Česká republika a Laoská lidově demokratická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"132","Kapverdy","Kapverdská republika","2009-01-01","9999-09-09","CV"
+"CS","LSTOBC",3228,"1322","Česká republika a Libanon","Česká republika a Libanonská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1326","Česká republika a Lesotho","Česká republika a Království Lesotho","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1328","Česká republika a Lotyšsko","Česká republika a Lotyšská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"132840","Kapverdy a Spojené státy","Kapverdy a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1330","Česká republika a Libérie","Česká republika a Liberijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1334","Česká republika a Libye","Česká republika a Velká libyjská arabská lidová socialistická džamáhírije","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1338","Česká republika a Lichtenštejnsko","Česká republika a Lichtenštejnské knížectví","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1340","Česká republika a Litva","Česká republika a Litevská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1342","Česká republika a Lucembursko","Česká republika a Lucemburské velkovévodství","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1350","Česká republika a Madagaskar","Česká republika a Madagaskarská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1354","Česká republika a Malawi","Česká republika a Republika Malawi","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1358","Česká republika a Malajsie","Česká republika a Malajsie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"136","Kajmanské ostrovy","Kajmanské ostrovy","2009-01-01","9999-09-09","KY"
+"CS","LSTOBC",3228,"1362","Česká republika a Maledivy","Česká republika a Maledivská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1366","Česká republika a Mali","Česká republika a Republika Mali","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1370","Česká republika a Malta","Česká republika a Maltská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1378","Česká republika a Mauritánie","Česká republika a Mauritánská islámská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1380","Česká republika a Mauricius","Česká republika a Mauricijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1384","Česká republika a Mexiko","Česká republika a Spojené státy mexické","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1392","Česká republika a Monako","Česká republika a Monacké knížectví","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1396","Česká republika a Mongolsko","Česká republika a Mongolsko","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1398","Česká republika a Moldavská republika","Česká republika a Moldavská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1399","Česká republika a Černá Hora","Česká republika a Republika Černá Hora","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"140","Středoafrická republika","Středoafrická republika","2009-01-01","9999-09-09","CF"
+"CS","LSTOBC",3228,"1400","Česká republika a Montserrat","Česká republika a Montserrat","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1404","Česká republika a Maroko","Česká republika a Marocké království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1408","Česká republika a Mosambik","Česká republika a Mosambická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1412","Česká republika a Omán","Česká republika a Sultanát Omán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1416","Česká republika a Namibie","Česká republika a Namibijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1420","Česká republika a Nauru","Česká republika a Republika Nauru","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1424","Česká republika a Nepál","Česká republika a Nepál","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1428","Česká republika a Nizozemsko","Česká republika a Nizozemské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1430","Česká republika a Nizozemské Antily","Česká republika a Nizozemské Antily","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1433","Česká republika a Aruba","Česká republika a Aruba","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"144","Srí Lanka","Srílanská demokratická socialistická republika","2009-01-01","9999-09-09","LK"
+"CS","LSTOBC",3228,"1440","Česká republika a Nová Kaledonie","Česká republika a Nová Kaledonie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1448","Česká republika a Vanuatu","Česká republika a Republika Vanuatu","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1454","Česká republika a Nový Zéland","Česká republika a Nový Zéland","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1458","Česká republika a Nikaragua","Česká republika a Nikaragujská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1462","Česká republika a Niger","Česká republika a Nigerská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1466","Česká republika a Nigérie","Česká republika a Nigérijská federativní republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1478","Česká republika a Norsko","Česká republika a Norské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"148","Čad","Čadská republika","2009-01-01","9999-09-09","TD"
+"CS","LSTOBC",3228,"1483","Česká republika a Mikronésie","Česká republika a Federativní státy Mikronésie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1484","Česká republika a Marshallovy ostrovy","Česká republika a Republika Marshallovy ostrovy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1485","Česká republika a Palau","Česká republika a Republika Palau","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1486","Česká republika a Pákistán","Česká republika a Pákistánská islámská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1491","Česká republika a Panama","Česká republika a Panamská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1498","Česká republika a Papua Nová Guinea","Česká republika a Papua Nová Guinea","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1500","Česká republika a Paraguay","Česká republika a Paraguayská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1504","Česká republika a Peru","Česká republika a Peruánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1508","Česká republika a Filipíny","Česká republika a Filipínská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1512","Česká republika a Pitcairn","Česká republika a Pitcairn","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1516","Česká republika a Polsko","Česká republika a Polská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"152","Chile","Chilská republika","2009-01-01","9999-09-09","CL"
+"CS","LSTOBC",3228,"1520","Česká republika a Portugalsko","Česká republika a Portugalská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1524","Česká republika a Guinea-Bissau","Česká republika a Republika Guinea-Bissau","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1526","Česká republika a Východní Timor","Česká republika a Demokratická republika Východní Timor","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"152788","Chile a Tunisko","Chile a Tunisko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1534","Česká republika a Katar","Česká republika a Stát Katar","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1542","Česká republika a Rumunsko","Česká republika a Rumunsko","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1543","Česká republika a Rusko","Česká republika a Ruská federace","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1546","Česká republika a Rwanda","Česká republika a Republika Rwanda","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1554","Česká republika a Svatá Helena","Česká republika a Svatá Helena","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1559","Česká republika a Svatý Kryštof a Nevis","Česká republika a Svatý Kryštof a Nevis","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"156","Čína","Čínská lidová republika","2009-01-01","9999-09-09","CN"
+"CS","LSTOBC",3228,"1560","Česká republika a Anguilla","Česká republika a Anguilla","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"156158","Čína a Tchaj-wan","Čína a Tchaj-wan","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1562","Česká republika a Svatá Lucie","Česká republika a Svatá Lucie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"156344","Čína a Hongkong","Čína a Hongkong","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"156446","Čína a Macao","Čína a Macao","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"156520","Čína a Nauru","Čína a Nauru","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1566","Česká republika a Saint Pierre a Miquelon","Česká republika a Saint Pierre a Miquelon","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"156704","Čína a Vietnam","Čína a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"156776","Čína a Tonga","Čína a Tonga","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1570","Česká republika a Sv.Vincenc a Grenadiny","Česká republika a Sv.Vincenc a Grenadiny","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1574","Česká republika a San Marino","Česká republika a Republika San Marino","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1578","Česká republika a Sv.Tomáš a Princův ostrov","Česká republika a Demokratická republika Svatý Tomáš a Princův ostrov","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"158","Tchaj-wan","Tchaj-wan","2009-01-01","9999-09-09","TW"
+"CS","LSTOBC",3228,"1582","Česká republika a Saúdská Arábie","Česká republika a Království Saúdská Arábie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1586","Česká republika a Senegal","Česká republika a Senegalská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1588","Česká republika a Srbsko","Česká republika a Republika Srbsko","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1590","Česká republika a Seychely","Česká republika a Seychelská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1594","Česká republika a Sierra Leone","Česká republika a Republika Sierra Leone","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"16","Americká Samoa","Americká Samoa","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1602","Česká republika a Singapur","Česká republika a Singapurská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1603","Česká republika a Slovensko","Česká republika a Slovenská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1604","Česká republika a Vietnam","Česká republika a Vietnamská socialistická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1605","Česká republika a Slovinsko","Česká republika a Slovinská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1606","Česká republika a Somálsko","Česká republika a Somálská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1610","Česká republika a Jižní Afrika","Česká republika a Jihoafrická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1616","Česká republika a Zimbabwe","Česká republika a Republika Zimbabwe","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1624","Česká republika a Španělsko","Česká republika a Španělské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1636","Česká republika a Súdán","Česká republika a Súdánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1640","Česká republika a Surinam","Česká republika a Surinamská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1648","Česká republika a Svazijsko","Česká republika a Svazijské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1652","Česká republika a Švédsko","Česká republika a Švédské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1656","Česká republika a Švýcarsko","Česká republika a Švýcarská konfederace","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1660","Česká republika a Syrská arabská repub.","Česká republika a Syrská arabská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1662","Česká republika a Tádžikistán","Česká republika a Republika Tádžikistán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1664","Česká republika a Thajsko","Česká republika a Thajské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1668","Česká republika a Togo","Česká republika a Republika Togo","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1676","Česká republika a Tonga","Česká republika a Království Tonga","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1680","Česká republika a Trinidad a Tobago","Česká republika a Republika Trinidad a Tobago","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1684","Česká republika a Spojené arabské emiráty","Česká republika a Spojené arabské emiráty","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1688","Česká republika a Tunisko","Česká republika a Tuniská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1692","Česká republika a Turecko","Česká republika a Turecká republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1695","Česká republika a Turkmenistán","Česká republika a Turkmenistán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1696","Česká republika a Turks a Caicos","Česká republika a Ostrovy Turks a Caicos","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1698","Česká republika a Tuvalu","Česká republika a Tuvalu","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"170","Kolumbie","Kolumbijská republika","2009-01-01","9999-09-09","CO"
+"CS","LSTOBC",3228,"1700","Česká republika a Uganda","Česká republika a Ugandská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"170222","Kolumbie a Salvador","Kolumbie a Salvador","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1704","Česká republika a Ukrajina","Česká republika a Ukrajina","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1707","Česká republika a Severní Makedonie","Česká republika a Republika Severní Makedonie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"170840","Kolumbie a Spojené státy","Kolumbie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"170862","Kolumbie a Venezuela","Kolumbie a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1718","Česká republika a Egypt","Česká republika a Egyptská arabská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1726","Česká republika a Spojené království","Česká republika a Spojené království Velké Británie a Severního Irska","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1731","Česká republika a Guernsey","Česká republika a Guernsey","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1732","Česká republika a Jersey","Česká republika a Jersey","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1733","Česká republika a Ostrov Man","Česká republika a Ostrov Man","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1734","Česká republika a Tanzanie","Česká republika a Tanzanská sjednocená republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"174","Komory","Komorský svaz","2009-01-01","9999-09-09","KM"
+"CS","LSTOBC",3228,"1740","Česká republika a Spojené státy","Česká republika a Spojené státy americké","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"175","Mayotte","Mayotte","2009-01-01","9999-09-09","YT"
+"CS","LSTOBC",3228,"1754","Česká republika a Burkina Faso","Česká republika a Burkina Faso","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1758","Česká republika a Uruguay","Česká republika a Uruguayská východní republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1760","Česká republika a Uzbekistán","Česká republika a Republika Uzbekistán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1762","Česká republika a Venezuela","Česká republika a Bolívarovská republika Venezuela","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1776","Česká republika a Wallis a Futuna","Česká republika a Ostrovy Wallis a Futuna","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"178","Kongo","Konžská republika","2009-01-01","9999-09-09","CG"
+"CS","LSTOBC",3228,"178180","Kongo, republika a Kongo, demokratická republika","Kongo, republika a Kongo, demokratická republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"1782","Česká republika a Samoa","Česká republika a Nezávislý stát Samoa","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1787","Česká republika a Jemen","Česká republika a Jemenská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1794","Česká republika a Zambie","Česká republika a Zambijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"1795","Občanství zemí bývalé Jugoslávie","Občanství zemí bývalé Jugoslávie","2009-01-01","9999-09-09",
+"CS","LSTOBC",3228,"180","Kongo, demokrat.repub.","Demokratická republika Kongo","2009-01-01","9999-09-09","CD"
+"CS","LSTOBC",3228,"188","Kostarika","Kostarická republika","2009-01-01","9999-09-09","CR"
+"CS","LSTOBC",3228,"191","Chorvatsko","Chorvatská republika","2009-01-01","9999-09-09","HR"
+"CS","LSTOBC",3228,"191070","Chorvatsko a Bosna a Hercegovina","Chorvatsko a Bosna a Hercegovina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191095","Chorvatsko a Kosovo","Chorvatsko a Kosovo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191112","Chorvatsko a Bělorusko","Chorvatsko a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191124","Chorvatsko a Kanada","Chorvatsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191276","Chorvatsko a Německo","Chorvatsko a Německo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191352","Chorvatsko a Island","Chorvatsko a Island","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191380","Chorvatsko a Itálie","Chorvatsko a Itálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191643","Chorvatsko a Ruská federace","Chorvatsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191688","Chorvatsko a Srbsko","Chorvatsko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191703","Chorvatsko a Slovensko","Chorvatsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191705","Chorvatsko a Slovinsko","Chorvatsko a Slovinsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191752","Chorvatsko a Švédsko","Chorvatsko a Švédsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191807","Chorvatsko a Makedonie, bývalá jugoslávská republika","Chorvatsko a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191826","Chorvatsko a Spojené království","Chorvatsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"191840","Chorvatsko a Spojené státy","Chorvatsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"192","Kuba","Kubánská republika","2009-01-01","9999-09-09","CU"
+"CS","LSTOBC",3228,"196","Kypr","Kyperská republika","2009-01-01","9999-09-09","CY"
+"CS","LSTOBC",3228,"196643","Kypr a Ruská federace","Kypr a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"196703","Kypr a Slovensko","Kypr a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"196840","Kypr a Spojené státy","Kypr a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"20","Andorra","Andorrské knížectví","2009-01-01","9999-09-09","AD"
+"CS","LSTOBC",3228,"203","Česká republika","Česká republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"203016","Česká republika a Americká Samoa","Česká republika a Americká Samoa","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"203850","Česká republika a Americké Panenské ostrovy","Česká republika a Americké Panenské ostrovy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"204","Benin","Beninská republika","2009-01-01","9999-09-09","BJ"
+"CS","LSTOBC",3228,"208","Dánsko","Dánské království","2009-01-01","9999-09-09","DK"
+"CS","LSTOBC",3228,"208276","Dánsko a Německo","Dánsko a Německo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"212","Dominika","Dominické společenství","2009-01-01","9999-09-09","DM"
+"CS","LSTOBC",3228,"212364","Dominika a Írán (islámská republika)","Dominika a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"212840","Dominika a Spojené státy","Dominika a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"214","Dominikánská republika","Dominikánská republika","2009-01-01","9999-09-09","DO"
+"CS","LSTOBC",3228,"218","Ekvádor","Ekvádorská republika","2009-01-01","9999-09-09","EC"
+"CS","LSTOBC",3228,"218604","Ekvádor a Peru","Ekvádor a Peru","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"222","Salvador","Salvadorská republika","2009-01-01","9999-09-09","SV"
+"CS","LSTOBC",3228,"226","Rovníková Guinea","Republika Rovníková Guinea","2009-01-01","9999-09-09","GQ"
+"CS","LSTOBC",3228,"231","Etiopie","Etiopská federativní demokratická republika","2009-01-01","9999-09-09","ET"
+"CS","LSTOBC",3228,"232","Eritrea","Eritrea","2009-01-01","9999-09-09","ER"
+"CS","LSTOBC",3228,"233","Estonsko","Estonská republika","2009-01-01","9999-09-09","EE"
+"CS","LSTOBC",3228,"233498","Estonsko a Moldavsko","Estonsko a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"233643","Estonsko a Ruská federace","Estonsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"238","Falklandy (Malvíny)","Falklandské ostrovy (Malvíny)","2009-01-01","9999-09-09","FK"
+"CS","LSTOBC",3228,"24","Angola","Angolská republika","2009-01-01","9999-09-09","AO"
+"CS","LSTOBC",3228,"242","Fidži","Republika Fidžijské ostrovy","2009-01-01","9999-09-09","FJ"
+"CS","LSTOBC",3228,"246","Finsko","Finská republika","2009-01-01","9999-09-09","FI"
+"CS","LSTOBC",3228,"246703","Finsko a Slovensko","Finsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250","Francie","Francouzská republika","2009-01-01","9999-09-09","FR"
+"CS","LSTOBC",3228,"250012","Francie a Alžírsko","Francie a Alžírsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250112","Francie a Bělorusko","Francie a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250156","Francie a Čína","Francie a Čína","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250324","Francie a Guinea","Francie a Guinea","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250372","Francie a Irsko","Francie a Irsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250380","Francie a Itálie","Francie a Itálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250484","Francie a Mexiko","Francie a Mexiko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250616","Francie a Polsko","Francie a Polsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250643","Francie a Ruská federace","Francie a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250703","Francie a Slovensko","Francie a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250724","Francie a Španělsko","Francie a Španělsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250756","Francie a Švýcarsko","Francie a Švýcarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250788","Francie a Tunisko","Francie a Tunisko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250792","Francie a Turecko","Francie a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250804","Francie a Ukrajina","Francie a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250807","Francie a Makedonie, bývalá jugoslávská republika","Francie a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250826","Francie a Spojené království","Francie a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"250840","Francie a Spojené státy","Francie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"258","Francouzská Polynésie","Francouzská Polynésie","2009-01-01","9999-09-09","PF"
+"CS","LSTOBC",3228,"260","Francouzská jižní území","Francouzská jižní území","2009-01-01","9999-09-09","TF"
+"CS","LSTOBC",3228,"262","Džibutsko","Džibutská republika","2009-01-01","9999-09-09","DJ"
+"CS","LSTOBC",3228,"266","Gabon","Gabonská republika","2009-01-01","9999-09-09","GA"
+"CS","LSTOBC",3228,"268","Gruzie","Gruzie","2009-01-01","9999-09-09","GE"
+"CS","LSTOBC",3228,"270","Gambie","Gambijská republika","2009-01-01","9999-09-09","GM"
+"CS","LSTOBC",3228,"275","Okupované palestinské území","Okupované palestinské území","2009-01-01","9999-09-09","UNK"
+"CS","LSTOBC",3228,"275400","Palestinské území (okupované) a Jordánsko","Palestinské území (okupované) a Jordánsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"275422","Palestinské území (okupované) a Libanon","Palestinské území (okupované) a Libanon","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"275760","Palestinské území (okupované) a Syrská arabská republika","Palestinské území (okupované) a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"275818","Palestinské území (okupované) a Egypt","Palestinské území (okupované) a Egypt","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276","Německo","Spolková republika Německo","2009-01-01","9999-09-09","DE"
+"CS","LSTOBC",3228,"276004","Německo a Afghánistán","Německo a Afghánistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276051","Německo a Arménie","Německo a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276070","Německo a Bosna a Hercegovina","Německo a Bosna a Hercegovina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276124","Německo a Kanada","Německo a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276156","Německo a Čína","Německo a Čína","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276300","Německo a Řecko","Německo a Řecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276364","Německo a Írán (islámská republika)","Německo a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276376","Německo a Izrael","Německo a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276380","Německo a Itálie","Německo a Itálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276398","Německo a Kazachstán","Německo a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276496","Německo a Mongolsko","Německo a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276616","Německo a Polsko","Německo a Polsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276642","Německo a Rumunsko","Německo a Rumunsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276643","Německo a Ruská federace","Německo a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276703","Německo a Slovensko","Německo a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276704","Německo a Vietnam","Německo a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276710","Německo a Jižní Afrika","Německo a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276756","Německo a Švýcarsko","Německo a Švýcarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276792","Německo a Turecko","Německo a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276804","Německo a Ukrajina","Německo a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"276840","Německo a Spojené státy","Německo a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"28","Antigua a Barbuda","Antigua a Barbuda","2009-01-01","9999-09-09","AG"
+"CS","LSTOBC",3228,"288","Ghana","Ghanská republika","2009-01-01","9999-09-09","GH"
+"CS","LSTOBC",3228,"288710","Ghana a Jižní Afrika","Ghana a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"296","Kiribati","Republika Kiribati","2009-01-01","9999-09-09","KI"
+"CS","LSTOBC",3228,"300","Řecko","Řecká republika","2009-01-01","9999-09-09","EL"
+"CS","LSTOBC",3228,"300036","Řecko a Austrálie","Řecko a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300051","Řecko a Arménie","Řecko a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300095","Řecko a Kosovo","Řecko a Kosovo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300124","Řecko a Kanada","Řecko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300398","Řecko a Kazachstán","Řecko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300643","Řecko a Ruská federace","Řecko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300703","Řecko a Slovensko","Řecko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300804","Řecko a Ukrajina","Řecko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300840","Řecko a Spojené státy","Řecko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"300860","Řecko a Uzbekistán","Řecko a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"308","Grenada","Grenada","2009-01-01","9999-09-09","GD"
+"CS","LSTOBC",3228,"308760","Grenada a Syrská arabská republika","Grenada a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"31","Ázerbájdžán","Ázerbájdžánská republika","2009-01-01","9999-09-09","AZ"
+"CS","LSTOBC",3228,"31051","Ázerbájdžán a Arménie","Ázerbájdžán a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"31840","Ázerbájdžán a Spojené státy","Ázerbájdžán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"32","Argentina","Argentinská republika","2009-01-01","9999-09-09","AR"
+"CS","LSTOBC",3228,"320","Guatemala","Guatemalská republika","2009-01-01","9999-09-09","GT"
+"CS","LSTOBC",3228,"324","Guinea","Guinejská republika","2009-01-01","9999-09-09","GN"
+"CS","LSTOBC",3228,"324624","Guinea a Guinea-Bissau","Guinea a Guinea-Bissau","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"32760","Argentina a Syrská arabská republika","Argentina a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"328","Guyana","Guyanská republika","2009-01-01","9999-09-09","GY"
+"CS","LSTOBC",3228,"32862","Argentina a Venezuela","Argentina a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"332","Haiti","Haitská republika","2009-01-01","9999-09-09","HT"
+"CS","LSTOBC",3228,"336","Svatý stolec (Vatikán)","Svatý stolec (Vatikánský městský stát)","2009-01-01","9999-09-09","VA"
+"CS","LSTOBC",3228,"340","Honduras","Honduraská republika","2009-01-01","9999-09-09","HN"
+"CS","LSTOBC",3228,"344","Hongkong","Zvláštní administrativní oblast Čínské lidové republiky Hongkong","2009-01-01","9999-09-09","HK"
+"CS","LSTOBC",3228,"348","Maďarsko","Maďarská republika","2009-01-01","9999-09-09","HU"
+"CS","LSTOBC",3228,"348268","Maďarsko a Gruzie","Maďarsko a Gruzie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348376","Maďarsko a Izrael","Maďarsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348380","Maďarsko a Itálie","Maďarsko a Itálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348498","Maďarsko a Moldavsko","Maďarsko a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348616","Maďarsko a Polsko","Maďarsko a Polsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348642","Maďarsko a Rumunsko","Maďarsko a Rumunsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348643","Maďarsko a Ruská federace","Maďarsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348688","Maďarsko a Srbsko","Maďarsko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348703","Maďarsko a Slovensko","Maďarsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"348804","Maďarsko a Ukrajina","Maďarsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"352","Island","Islandská republika","2009-01-01","9999-09-09","IS"
+"CS","LSTOBC",3228,"356","Indie","Indická republika","2009-01-01","9999-09-09","IN"
+"CS","LSTOBC",3228,"356360","Indie a Indonésie","Indie a Indonésie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"356524","Indie a Nepál","Indie a Nepál","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"356840","Indie a Spojené státy","Indie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"36","Austrálie","Austrálie","2009-01-01","9999-09-09","AU"
+"CS","LSTOBC",3228,"360","Indonésie","Indonéská republika","2009-01-01","9999-09-09","ID"
+"CS","LSTOBC",3228,"36124","Austrálie a Kanada","Austrálie a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"364","Írán","Íránská islámská republika","2009-01-01","9999-09-09","IR"
+"CS","LSTOBC",3228,"364368","Írán (islámská republika) a Irák","Írán (islámská republika) a Irák","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"364840","Írán (islámská republika) a Spojené státy","Írán (islámská republika) a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"36554","Austrálie a Nový Zéland","Austrálie a Nový Zéland","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"36710","Austrálie a Jižní Afrika","Austrálie a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"368","Irák","Irácká republika","2009-01-01","9999-09-09","IQ"
+"CS","LSTOBC",3228,"36840","Austrálie a Spojené státy","Austrálie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"368659","Irák a Svatý Kryštof a Nevis","Irák a Svatý Kryštof a Nevis","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"368760","Irák a Syrská arabská republika","Irák a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372","Irsko","Irsko","2009-01-01","9999-09-09","IE"
+"CS","LSTOBC",3228,"372036","Irsko a Austrálie","Irsko a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372124","Irsko a Kanada","Irsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372398","Irsko a Kazachstán","Irsko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372528","Irsko a Nizozemsko","Irsko a Nizozemsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372586","Irsko a Pákistán","Irsko a Pákistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372643","Irsko a Ruská federace","Irsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372686","Irsko a Senegal","Irsko a Senegal","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372688","Irsko a Srbsko","Irsko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372703","Irsko a Slovensko","Irsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372710","Irsko a Jižní Afrika","Irsko a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372804","Irsko a Ukrajina","Irsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372826","Irsko a Spojené království","Irsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372840","Irsko a Spojené státy","Irsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"372862","Irsko a Venezuela","Irsko a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"376","Izrael","Stát Izrael","2009-01-01","9999-09-09","IL"
+"CS","LSTOBC",3228,"376398","Izrael a Kazachstán","Izrael a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"376400","Izrael a Jordánsko","Izrael a Jordánsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"376417","Izrael a Kyrgyzstán","Izrael a Kyrgyzstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"376710","Izrael a Jižní Afrika","Izrael a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"376840","Izrael a Spojené státy","Izrael a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380","Itálie","Italská republika","2009-01-01","9999-09-09","IT"
+"CS","LSTOBC",3228,"380032","Itálie a Argentina","Itálie a Argentina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380070","Itálie a Bosna a Hercegovina","Itálie a Bosna a Hercegovina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380076","Itálie a Brazílie","Itálie a Brazílie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380124","Itálie a Kanada","Itálie a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380352","Itálie a Island","Itálie a Island","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380428","Itálie a Lotyšsko","Itálie a Lotyšsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380484","Itálie a Mexiko","Itálie a Mexiko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380498","Itálie a Moldavsko","Itálie a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380528","Itálie a Nizozemsko","Itálie a Nizozemsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380604","Itálie a Peru","Itálie a Peru","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380620","Itálie a Portugalsko","Itálie a Portugalsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380643","Itálie a Ruská federace","Itálie a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380703","Itálie a Slovensko","Itálie a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380710","Itálie a Jižní Afrika","Itálie a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380756","Itálie a Švýcarsko","Itálie a Švýcarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380804","Itálie a Ukrajina","Itálie a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380807","Itálie a Makedonie, bývalá jugoslávská republika","Itálie a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380818","Itálie a Egypt","Itálie a Egypt","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380826","Itálie a Spojené království","Itálie a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380840","Itálie a Spojené státy","Itálie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380858","Itálie a Uruguay","Itálie a Uruguay","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"380862","Itálie a Venezuela","Itálie a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"384","Pobřeží Slonoviny","Republika Pobřeží Slonoviny","2009-01-01","9999-09-09","CI"
+"CS","LSTOBC",3228,"388","Jamajka","Jamajka","2009-01-01","9999-09-09","JM"
+"CS","LSTOBC",3228,"392","Japonsko","Japonsko","2009-01-01","9999-09-09","JP"
+"CS","LSTOBC",3228,"398","Kazachstán","Republika Kazachstán","2009-01-01","9999-09-09","KZ"
+"CS","LSTOBC",3228,"398410","Kazachstán a Korejská republika","Kazachstán a Korejská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"398417","Kazachstán a Kyrgyzstán","Kazachstán a Kyrgyzstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"398840","Kazachstán a Spojené státy","Kazachstán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"398860","Kazachstán a Uzbekistán","Kazachstán a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"4","Afghánistán","Islámská republika Afghánistán","2009-01-01","9999-09-09","AF"
+"CS","LSTOBC",3228,"40","Rakousko","Rakouská republika","2009-01-01","9999-09-09","AT"
+"CS","LSTOBC",3228,"400","Jordánsko","Jordánské hášimovské království","2009-01-01","9999-09-09","JO"
+"CS","LSTOBC",3228,"400760","Jordánsko a Syrská arabská republika","Jordánsko a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"40348","Rakousko a Maďarsko","Rakousko a Maďarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"40376","Rakousko a Izrael","Rakousko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"404","Keňa","Keňská republika","2009-01-01","9999-09-09","KE"
+"CS","LSTOBC",3228,"40496","Rakousko a Mongolsko","Rakousko a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"40616","Rakousko a Polsko","Rakousko a Polsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"40643","Rakousko a Ruská federace","Rakousko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"40703","Rakousko a Slovensko","Rakousko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"408","Korea, lidově dem. rep.","Korejská lidově demokratická republika","2009-01-01","9999-09-09","KP"
+"CS","LSTOBC",3228,"40826","Rakousko a Spojené království","Rakousko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"410","Korejská republika","Korejská republika","2009-01-01","9999-09-09","KR"
+"CS","LSTOBC",3228,"410840","Korejská republika a Spojené státy","Korejská republika a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"414","Kuvajt","Stát Kuvajt","2009-01-01","9999-09-09","KW"
+"CS","LSTOBC",3228,"417","Kyrgyzstán","Kyrgyzská republika","2009-01-01","9999-09-09","KG"
+"CS","LSTOBC",3228,"417762","Kyrgyzstán a Tádžikistán","Kyrgyzstán a Tádžikistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"417840","Kyrgyzstán a Spojené státy","Kyrgyzstán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"417860","Kyrgyzstán a Uzbekistán","Kyrgyzstán a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"418","Laos","Laoská lidově demokratická republika","2009-01-01","9999-09-09","LA"
+"CS","LSTOBC",3228,"422","Libanon","Libanonská republika","2009-01-01","9999-09-09","LB"
+"CS","LSTOBC",3228,"426","Lesotho","Království Lesotho","2009-01-01","9999-09-09","LS"
+"CS","LSTOBC",3228,"428","Lotyšsko","Lotyšská republika","2009-01-01","9999-09-09","LV"
+"CS","LSTOBC",3228,"428440","Lotyšsko a Litva","Lotyšsko a Litva","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"428643","Lotyšsko a Ruská federace","Lotyšsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"428703","Lotyšsko a Slovensko","Lotyšsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"428804","Lotyšsko a Ukrajina","Lotyšsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"428840","Lotyšsko a Spojené státy","Lotyšsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"430","Libérie","Liberijská republika","2009-01-01","9999-09-09","LR"
+"CS","LSTOBC",3228,"434","Libye","Velká libyjská arabská lidová socialistická džamáhírije","2009-01-01","9999-09-09","LY"
+"CS","LSTOBC",3228,"438","Lichtenštejnsko","Lichtenštejnské knížectví","2009-01-01","9999-09-09","LI"
+"CS","LSTOBC",3228,"44","Bahamy","Bahamské společenství","2009-01-01","9999-09-09","BS"
+"CS","LSTOBC",3228,"440","Litva","Litevská republika","2009-01-01","9999-09-09","LT"
+"CS","LSTOBC",3228,"440032","Litva a Argentina","Litva a Argentina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440112","Litva a Bělorusko","Litva a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440376","Litva a Izrael","Litva a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440398","Litva a Kazachstán","Litva a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440643","Litva a Ruská federace","Litva a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440792","Litva a Turecko","Litva a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"440804","Litva a Ukrajina","Litva a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"442","Lucembursko","Lucemburské velkovévodství","2009-01-01","9999-09-09","LU"
+"CS","LSTOBC",3228,"446","Macao","Zvláštní administrativní oblast Čínské lidové republiky Macao","2009-01-01","9999-09-09","MO"
+"CS","LSTOBC",3228,"450","Madagaskar","Madagaskarská republika","2009-01-01","9999-09-09","MG"
+"CS","LSTOBC",3228,"454","Malawi","Republika Malawi","2009-01-01","9999-09-09","MW"
+"CS","LSTOBC",3228,"458","Malajsie","Malajsie","2009-01-01","9999-09-09","MY"
+"CS","LSTOBC",3228,"462","Maledivy","Maledivská republika","2009-01-01","9999-09-09","MV"
+"CS","LSTOBC",3228,"466","Mali","Republika Mali","2009-01-01","9999-09-09","ML"
+"CS","LSTOBC",3228,"470","Malta","Maltská republika","2009-01-01","9999-09-09","MT"
+"CS","LSTOBC",3228,"470124","Malta a Kanada","Malta a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"470643","Malta a Ruská federace","Malta a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"478","Mauritánie","Mauritánská islámská republika","2009-01-01","9999-09-09","MR"
+"CS","LSTOBC",3228,"48","Bahrajn","Království Bahrajn","2009-01-01","9999-09-09","BH"
+"CS","LSTOBC",3228,"480","Mauricius","Mauricijská republika","2009-01-01","9999-09-09","MU"
+"CS","LSTOBC",3228,"484","Mexiko","Spojené státy mexické","2009-01-01","9999-09-09","MX"
+"CS","LSTOBC",3228,"4840","Afghánistán a Spojené státy","Afghánistán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"484558","Mexiko a Nikaragua","Mexiko a Nikaragua","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"484840","Mexiko a Spojené státy","Mexiko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"492","Monako","Monacké knížectví","2009-01-01","9999-09-09","MC"
+"CS","LSTOBC",3228,"496","Mongolsko","Mongolsko","2009-01-01","9999-09-09","MN"
+"CS","LSTOBC",3228,"496704","Mongolsko a Vietnam","Mongolsko a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"498","Moldavská republika","Moldavská republika","2009-01-01","9999-09-09","MD"
+"CS","LSTOBC",3228,"498376","Moldavsko a Izrael","Moldavsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"498398","Moldavsko a Kazachstán","Moldavsko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"498643","Moldavsko a Ruská federace","Moldavsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"498804","Moldavsko a Ukrajina","Moldavsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"498826","Moldavsko a Spojené království","Moldavsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"499","Černá Hora","Republika Černá Hora","2009-01-01","9999-09-09","ME"
+"CS","LSTOBC",3228,"499643","Černá Hora a Ruská federace","Černá Hora a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"499688","Černá Hora a Srbsko","Černá Hora a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"50","Bangladéš","Bangladéšská lidová republika","2009-01-01","9999-09-09","BD"
+"CS","LSTOBC",3228,"500","Montserrat","Montserrat","2009-01-01","9999-09-09","MS"
+"CS","LSTOBC",3228,"504","Maroko","Marocké království","2009-01-01","9999-09-09","MA"
+"CS","LSTOBC",3228,"50586","Bangladéš a Pákistán","Bangladéš a Pákistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"508","Mosambik","Mosambická republika","2009-01-01","9999-09-09","MZ"
+"CS","LSTOBC",3228,"51","Arménie","Arménská republika","2009-01-01","9999-09-09","AM"
+"CS","LSTOBC",3228,"512","Omán","Sultanát Omán","2009-01-01","9999-09-09","OM"
+"CS","LSTOBC",3228,"51422","Arménie a Libanon","Arménie a Libanon","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"516","Namibie","Namibijská republika","2009-01-01","9999-09-09","NA"
+"CS","LSTOBC",3228,"51760","Arménie a Syrská arabská republika","Arménie a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"51840","Arménie a Spojené státy","Arménie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"52","Barbados","Barbados","2009-01-01","9999-09-09","BB"
+"CS","LSTOBC",3228,"520","Nauru","Republika Nauru","2009-01-01","9999-09-09","NR"
+"CS","LSTOBC",3228,"524","Nepál","Nepál","2009-01-01","9999-09-09","NP"
+"CS","LSTOBC",3228,"528","Nizozemsko","Nizozemské království","2009-01-01","9999-09-09","NL"
+"CS","LSTOBC",3228,"528004","Nizozemsko a Afghánistán","Nizozemsko a Afghánistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528051","Nizozemsko a Arménie","Nizozemsko a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528498","Nizozemsko a Moldavsko","Nizozemsko a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528642","Nizozemsko a Rumunsko","Nizozemsko a Rumunsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528643","Nizozemsko a Ruská federace","Nizozemsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528703","Nizozemsko a Slovensko","Nizozemsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528804","Nizozemsko a Ukrajina","Nizozemsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528826","Nizozemsko a Spojené království","Nizozemsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"528840","Nizozemsko a Spojené státy","Nizozemsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"530","Nizozemské Antily","Nizozemské Antily","2009-01-01","9999-09-09","AN"
+"CS","LSTOBC",3228,"533","Aruba","Aruba","2009-01-01","9999-09-09","AW"
+"CS","LSTOBC",3228,"540","Nová Kaledonie","Nová Kaledonie","2009-01-01","9999-09-09","NC"
+"CS","LSTOBC",3228,"548","Vanuatu","Republika Vanuatu","2009-01-01","9999-09-09","VU"
+"CS","LSTOBC",3228,"554","Nový Zéland","Nový Zéland","2009-01-01","9999-09-09","NZ"
+"CS","LSTOBC",3228,"558","Nikaragua","Nikaragujská republika","2009-01-01","9999-09-09","NI"
+"CS","LSTOBC",3228,"558604","Nikaragua a Peru","Nikaragua a Peru","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"56","Belgie","Belgické království","2009-01-01","9999-09-09","BE"
+"CS","LSTOBC",3228,"562","Niger","Nigerská republika","2009-01-01","9999-09-09","NE"
+"CS","LSTOBC",3228,"562566","Niger a Nigérie","Niger a Nigérie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"56496","Belgie a Mongolsko","Belgie a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"566","Nigérie","Nigérijská federativní republika","2009-01-01","9999-09-09","NG"
+"CS","LSTOBC",3228,"56643","Belgie a Ruská federace","Belgie a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"566686","Nigérie a Senegal","Nigérie a Senegal","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"566729","Nigérie a Súdán","Nigérie a Súdán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"56703","Belgie a Slovensko","Belgie a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"56840","Belgie a Spojené státy","Belgie a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"578","Norsko","Norské království","2009-01-01","9999-09-09","NO"
+"CS","LSTOBC",3228,"578840","Norsko a Spojené státy","Norsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"583","Mikronésie","Federativní státy Mikronésie","2009-01-01","9999-09-09","FM"
+"CS","LSTOBC",3228,"584","Marshallovy ostrovy","Republika Marshallovy ostrovy","2009-01-01","9999-09-09","MH"
+"CS","LSTOBC",3228,"585","Palau","Republika Palau","2009-01-01","9999-09-09","PW"
+"CS","LSTOBC",3228,"586","Pákistán","Pákistánská islámská republika","2009-01-01","9999-09-09","PK"
+"CS","LSTOBC",3228,"586840","Pákistán a Spojené státy","Pákistán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"591","Panama","Panamská republika","2009-01-01","9999-09-09","PA"
+"CS","LSTOBC",3228,"598","Papua Nová Guinea","Papua Nová Guinea","2009-01-01","9999-09-09","PG"
+"CS","LSTOBC",3228,"60","Bermudy","Bermudy","2009-01-01","9999-09-09","BM"
+"CS","LSTOBC",3228,"600","Paraguay","Paraguayská republika","2009-01-01","9999-09-09","PY"
+"CS","LSTOBC",3228,"604","Peru","Peruánská republika","2009-01-01","9999-09-09","PE"
+"CS","LSTOBC",3228,"608","Filipíny","Filipínská republika","2009-01-01","9999-09-09","PH"
+"CS","LSTOBC",3228,"612","Pitcairn","Pitcairn","2009-01-01","9999-09-09","PN"
+"CS","LSTOBC",3228,"616","Polsko","Polská republika","2009-01-01","9999-09-09","PL"
+"CS","LSTOBC",3228,"616032","Polsko a Argentina","Polsko a Argentina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616036","Polsko a Austrálie","Polsko a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616112","Polsko a Bělorusko","Polsko a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616124","Polsko a Kanada","Polsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616376","Polsko a Izrael","Polsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616398","Polsko a Kazachstán","Polsko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616643","Polsko a Ruská federace","Polsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616703","Polsko a Slovensko","Polsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616724","Polsko a Španělsko","Polsko a Španělsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616804","Polsko a Ukrajina","Polsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616826","Polsko a Spojené království","Polsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"616840","Polsko a Spojené státy","Polsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620","Portugalsko","Portugalská republika","2009-01-01","9999-09-09","PT"
+"CS","LSTOBC",3228,"620076","Portugalsko a Brazílie","Portugalsko a Brazílie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620124","Portugalsko a Kanada","Portugalsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620356","Portugalsko a Indie","Portugalsko a Indie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620368","Portugalsko a Irák","Portugalsko a Irák","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620376","Portugalsko a Izrael","Portugalsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620643","Portugalsko a Ruská federace","Portugalsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620705","Portugalsko a Slovinsko","Portugalsko a Slovinsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620724","Portugalsko a Španělsko","Portugalsko a Španělsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620792","Portugalsko a Turecko","Portugalsko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620804","Portugalsko a Ukrajina","Portugalsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"620862","Portugalsko a Venezuela","Portugalsko a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"624","Guinea-Bissau","Republika Guinea-Bissau","2009-01-01","9999-09-09","GW"
+"CS","LSTOBC",3228,"626","Východní Timor","Demokratická republika Východní Timor","2009-01-01","9999-09-09","TL"
+"CS","LSTOBC",3228,"634","Katar","Stát Katar","2009-01-01","9999-09-09","QA"
+"CS","LSTOBC",3228,"64","Bhútán","Bhútánské království","2009-01-01","9999-09-09","BT"
+"CS","LSTOBC",3228,"642","Rumunsko","Rumunsko","2009-01-01","9999-09-09","RO"
+"CS","LSTOBC",3228,"642112","Rumunsko a Bělorusko","Rumunsko a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642124","Rumunsko a Kanada","Rumunsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642376","Rumunsko a Izrael","Rumunsko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642496","Rumunsko a Mongolsko","Rumunsko a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642498","Rumunsko a Moldavsko","Rumunsko a Moldavsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642643","Rumunsko a Ruská federace","Rumunsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642703","Rumunsko a Slovensko","Rumunsko a Slovensko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642792","Rumunsko a Turecko","Rumunsko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642804","Rumunsko a Ukrajina","Rumunsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642826","Rumunsko a Spojené království","Rumunsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"642840","Rumunsko a Spojené státy","Rumunsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643","Rusko","Ruská federace","2009-01-01","9999-09-09","RU"
+"CS","LSTOBC",3228,"643004","Ruská federace a Afghánistán","Ruská federace a Afghánistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643031","Ruská federace a Ázerbájdžán","Ruská federace a Ázerbájdžán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643032","Ruská federace a Argentina","Ruská federace a Argentina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643036","Ruská federace a Austrálie","Ruská federace a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643051","Ruská federace a Arménie","Ruská federace a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643124","Ruská federace a Kanada","Ruská federace a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643192","Ruská federace a Kuba","Ruská federace a Kuba","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643212","Ruská federace a Dominika","Ruská federace a Dominika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643268","Ruská federace a Gruzie","Ruská federace a Gruzie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643308","Ruská federace a Grenada","Ruská federace a Grenada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643368","Ruská federace a Irák","Ruská federace a Irák","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643376","Ruská federace a Izrael","Ruská federace a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643392","Ruská federace a Japonsko","Ruská federace a Japonsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643398","Ruská federace a Kazachstán","Ruská federace a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643417","Ruská federace a Kyrgyzstán","Ruská federace a Kyrgyzstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643659","Ruská federace a Svatý Kryštof a Nevis","Ruská federace a Svatý Kryštof a Nevis","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643688","Ruská federace a Srbsko","Ruská federace a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643756","Ruská federace a Švýcarsko","Ruská federace a Švýcarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643762","Ruská federace a Tádžikistán","Ruská federace a Tádžikistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643792","Ruská federace a Turecko","Ruská federace a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643795","Ruská federace a Turkmenistán","Ruská federace a Turkmenistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643804","Ruská federace a Ukrajina","Ruská federace a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643826","Ruská federace a Spojené království","Ruská federace a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643840","Ruská federace a Spojené státy","Ruská federace a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"643860","Ruská federace a Uzbekistán","Ruská federace a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"646","Rwanda","Republika Rwanda","2009-01-01","9999-09-09","RW"
+"CS","LSTOBC",3228,"654","Svatá Helena","Svatá Helena","2009-01-01","9999-09-09","SH"
+"CS","LSTOBC",3228,"659","Svatý Kryštof a Nevis","Svatý Kryštof a Nevis","2009-01-01","9999-09-09","KN"
+"CS","LSTOBC",3228,"660","Anguilla","Anguilla","2009-01-01","9999-09-09","AI"
+"CS","LSTOBC",3228,"662","Svatá Lucie","Svatá Lucie","2009-01-01","9999-09-09","LC"
+"CS","LSTOBC",3228,"666","Saint Pierre a Miquelon","Saint Pierre a Miquelon","2009-01-01","9999-09-09","PM"
+"CS","LSTOBC",3228,"670","Sv.Vincenc a Grenadiny","Svatý Vincenc a Grenadiny","2009-01-01","9999-09-09","VC"
+"CS","LSTOBC",3228,"674","San Marino","Republika San Marino","2009-01-01","9999-09-09","SM"
+"CS","LSTOBC",3228,"678","Sv.Tomáš a Princův ostr","Demokratická republika Svatý Tomáš a Princův ostrov","2009-01-01","9999-09-09","ST"
+"CS","LSTOBC",3228,"68","Bolívie","Bolivijská republika","2009-01-01","9999-09-09","BO"
+"CS","LSTOBC",3228,"682","Saúdská Arábie","Království Saúdská Arábie","2009-01-01","9999-09-09","SA"
+"CS","LSTOBC",3228,"686","Senegal","Senegalská republika","2009-01-01","9999-09-09","SN"
+"CS","LSTOBC",3228,"688","Srbsko","Republika Srbsko","2009-01-01","9999-09-09","RS"
+"CS","LSTOBC",3228,"688608","Srbsko a Filipíny","Srbsko a Filipíny","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"688710","Srbsko a Jižní Afrika","Srbsko a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"688792","Srbsko a Turecko","Srbsko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"688804","Srbsko a Ukrajina","Srbsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"688807","Srbsko a Makedonie, bývalá jugoslávská republika","Srbsko a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"688840","Srbsko a Spojené státy","Srbsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"690","Seychely","Seychelská republika","2009-01-01","9999-09-09","SC"
+"CS","LSTOBC",3228,"694","Sierra Leone","Republika Sierra Leone","2009-01-01","9999-09-09","SL"
+"CS","LSTOBC",3228,"70","Bosna a Hercegovina","Bosna a Hercegovina","2009-01-01","9999-09-09","BA"
+"CS","LSTOBC",3228,"70095","Bosna a Hercegovina a Kosovo","Bosna a Hercegovina a Kosovo","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"70124","Bosna a Hercegovina a Kanada","Bosna a Hercegovina a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"702","Singapur","Singapurská republika","2009-01-01","9999-09-09","SG"
+"CS","LSTOBC",3228,"703","Slovensko","Slovenská republika","2009-01-01","9999-09-09","SK"
+"CS","LSTOBC",3228,"703012","Slovensko a Alžírsko","Slovensko a Alžírsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703036","Slovensko a Austrálie","Slovensko a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703070","Slovensko a Bosna a Hercegovina","Slovensko a Bosna a Hercegovina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703112","Slovensko a Bělorusko","Slovensko a Bělorusko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703124","Slovensko a Kanada","Slovensko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703152","Slovensko a Chile","Slovensko a Chile","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703376","Slovensko a Izrael","Slovensko a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703417","Slovensko a Kyrgyzstán","Slovensko a Kyrgyzstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703496","Slovensko a Mongolsko","Slovensko a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703643","Slovensko a Ruská federace","Slovensko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703688","Slovensko a Srbsko","Slovensko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703704","Slovensko a Vietnam","Slovensko a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703752","Slovensko a Švédsko","Slovensko a Švédsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703756","Slovensko a Švýcarsko","Slovensko a Švýcarsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703760","Slovensko a Syrská arabská republika","Slovensko a Syrská arabská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703764","Slovensko a Thajsko","Slovensko a Thajsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703788","Slovensko a Tunisko","Slovensko a Tunisko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703792","Slovensko a Turecko","Slovensko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703804","Slovensko a Ukrajina","Slovensko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703807","Slovensko a Makedonie, bývalá jugoslávská republika","Slovensko a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703826","Slovensko a Spojené království","Slovensko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703840","Slovensko a Spojené státy","Slovensko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703858","Slovensko a Uruguay","Slovensko a Uruguay","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"703887","Slovensko a Jemen","Slovensko a Jemen","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"704","Vietnam","Vietnamská socialistická republika","2009-01-01","9999-09-09","VN"
+"CS","LSTOBC",3228,"70499","Bosna a Hercegovina a Černá Hora","Bosna a Hercegovina a Černá Hora","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"705","Slovinsko","Slovinská republika","2009-01-01","9999-09-09","SI"
+"CS","LSTOBC",3228,"705688","Slovinsko a Srbsko","Slovinsko a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"705807","Slovinsko a Makedonie, bývalá jugoslávská republika","Slovinsko a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"706","Somálsko","Somálská republika","2009-01-01","9999-09-09","SO"
+"CS","LSTOBC",3228,"70643","Bosna a Hercegovina a Ruská federace","Bosna a Hercegovina a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"70688","Bosna a Hercegovina a Srbsko","Bosna a Hercegovina a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"710","Jižní Afrika","Jihoafrická republika","2009-01-01","9999-09-09","ZA"
+"CS","LSTOBC",3228,"710764","Jižní Afrika a Thajsko","Jižní Afrika a Thajsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"716","Zimbabwe","Republika Zimbabwe","2009-01-01","9999-09-09","ZW"
+"CS","LSTOBC",3228,"72","Botswana","Republika Botswana","2009-01-01","9999-09-09","BW"
+"CS","LSTOBC",3228,"724","Španělsko","Španělské království","2009-01-01","9999-09-09","ES"
+"CS","LSTOBC",3228,"724032","Španělsko a Argentina","Španělsko a Argentina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724070","Španělsko a Bosna a Hercegovina","Španělsko a Bosna a Hercegovina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724076","Španělsko a Brazílie","Španělsko a Brazílie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724152","Španělsko a Chile","Španělsko a Chile","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724170","Španělsko a Kolumbie","Španělsko a Kolumbie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724192","Španělsko a Kuba","Španělsko a Kuba","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724356","Španělsko a Indie","Španělsko a Indie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724398","Španělsko a Kazachstán","Španělsko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724604","Španělsko a Peru","Španělsko a Peru","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724643","Španělsko a Ruská federace","Španělsko a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724792","Španělsko a Turecko","Španělsko a Turecko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724804","Španělsko a Ukrajina","Španělsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"724862","Španělsko a Venezuela","Španělsko a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"728","Jižní Súdán","Jihosúdánská republika","2009-01-01","9999-09-09","SS"
+"CS","LSTOBC",3228,"729","Súdán","Súdánská republika","2009-01-01","9999-09-09","SD"
+"CS","LSTOBC",3228,"736","Súdán","Súdánská republika","2009-01-01","9999-09-09","SD"
+"CS","LSTOBC",3228,"740","Surinam","Surinamská republika","2009-01-01","9999-09-09","SR"
+"CS","LSTOBC",3228,"748","Svazijsko","Svazijské království","2009-01-01","9999-09-09","SZ"
+"CS","LSTOBC",3228,"752","Švédsko","Švédské království","2009-01-01","9999-09-09","SE"
+"CS","LSTOBC",3228,"752124","Švédsko a Kanada","Švédsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752364","Švédsko a Írán (islámská republika)","Švédsko a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752422","Švédsko a Libanon","Švédsko a Libanon","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752704","Švédsko a Vietnam","Švédsko a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752804","Švédsko a Ukrajina","Švédsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752826","Švédsko a Spojené království","Švédsko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"752840","Švédsko a Spojené státy","Švédsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"756","Švýcarsko","Švýcarská konfederace","2009-01-01","9999-09-09","CH"
+"CS","LSTOBC",3228,"756124","Švýcarsko a Kanada","Švýcarsko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"756156","Švýcarsko a Čína","Švýcarsko a Čína","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"756398","Švýcarsko a Kazachstán","Švýcarsko a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"756804","Švýcarsko a Ukrajina","Švýcarsko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"756840","Švýcarsko a Spojené státy","Švýcarsko a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"76","Brazílie","Brazilská federativní republika","2009-01-01","9999-09-09","BR"
+"CS","LSTOBC",3228,"760","Syrská arabská repub.","Syrská arabská republika","2009-01-01","9999-09-09","SY"
+"CS","LSTOBC",3228,"762","Tádžikistán","Republika Tádžikistán","2009-01-01","9999-09-09","TJ"
+"CS","LSTOBC",3228,"762840","Tádžikistán a Spojené státy","Tádžikistán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"764","Thajsko","Thajské království","2009-01-01","9999-09-09","TH"
+"CS","LSTOBC",3228,"76422","Brazílie a Libanon","Brazílie a Libanon","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"76434","Brazílie a Libyjská arabská džamáhírije","Brazílie a Libyjská arabská džamáhírije","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"768","Togo","Republika Togo","2009-01-01","9999-09-09","TG"
+"CS","LSTOBC",3228,"776","Tonga","Království Tonga","2009-01-01","9999-09-09","TO"
+"CS","LSTOBC",3228,"780","Trinidad a Tobago","Republika Trinidad a Tobago","2009-01-01","9999-09-09","TT"
+"CS","LSTOBC",3228,"784","Spojené arabské emiráty","Spojené arabské emiráty","2009-01-01","9999-09-09","AE"
+"CS","LSTOBC",3228,"788","Tunisko","Tuniská republika","2009-01-01","9999-09-09","TN"
+"CS","LSTOBC",3228,"788818","Tunisko a Egypt","Tunisko a Egypt","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"792","Turecko","Turecká republika","2009-01-01","9999-09-09","TR"
+"CS","LSTOBC",3228,"792124","Turecko a Kanada","Turecko a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"792804","Turecko a Ukrajina","Turecko a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"792826","Turecko a Spojené království","Turecko a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"795","Turkmenistán","Turkmenistán","2009-01-01","9999-09-09","TM"
+"CS","LSTOBC",3228,"795840","Turkmenistán a Spojené státy","Turkmenistán a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"796","Turks a Caicos","Ostrovy Turks a Caicos","2009-01-01","9999-09-09","TC"
+"CS","LSTOBC",3228,"798","Tuvalu","Tuvalu","2009-01-01","9999-09-09","TV"
+"CS","LSTOBC",3228,"8","Albánie","Albánská republika","2009-01-01","9999-09-09","AL"
+"CS","LSTOBC",3228,"800","Uganda","Ugandská republika","2009-01-01","9999-09-09","UG"
+"CS","LSTOBC",3228,"804","Ukrajina","Ukrajina","2009-01-01","9999-09-09","UA"
+"CS","LSTOBC",3228,"804012","Ukrajina a Alžírsko","Ukrajina a Alžírsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804031","Ukrajina a Ázerbájdžán","Ukrajina a Ázerbájdžán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804051","Ukrajina a Arménie","Ukrajina a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804124","Ukrajina a Kanada","Ukrajina a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804158","Ukrajina a Tchaj-wan","Ukrajina a Tchaj-wan","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804268","Ukrajina a Gruzie","Ukrajina a Gruzie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804364","Ukrajina a Írán (islámská republika)","Ukrajina a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804376","Ukrajina a Izrael","Ukrajina a Izrael","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804398","Ukrajina a Kazachstán","Ukrajina a Kazachstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804417","Ukrajina a Kyrgyzstán","Ukrajina a Kyrgyzstán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804484","Ukrajina a Mexiko","Ukrajina a Mexiko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804496","Ukrajina a Mongolsko","Ukrajina a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804807","Ukrajina a Makedonie, bývalá jugoslávská republika","Ukrajina a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804818","Ukrajina a Egypt","Ukrajina a Egypt","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804826","Ukrajina a Spojené království","Ukrajina a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804840","Ukrajina a Spojené státy","Ukrajina a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"804860","Ukrajina a Uzbekistán","Ukrajina a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"807","Severní Makedonie","Republika Severní Makedonie","2009-01-01","9999-09-09","MK"
+"CS","LSTOBC",3228,"807051","Makedonie, bývalá jugoslávská republika a Arménie","Makedonie, bývalá jugoslávská republika a Arménie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"807124","Makedonie, bývalá jugoslávská republika a Kanada","Makedonie, bývalá jugoslávská republika a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"807826","Makedonie, bývalá jugoslávská republika a Spojené království","Makedonie, bývalá jugoslávská republika a Spojené království","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"818","Egypt","Egyptská arabská republika","2009-01-01","9999-09-09","EG"
+"CS","LSTOBC",3228,"818840","Egypt a Spojené státy","Egypt a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826","Spojené království","Spojené království Velké Británie a Severního Irska","2009-01-01","9999-09-09","UK"
+"CS","LSTOBC",3228,"826012","Spojené království a Alžírsko","Spojené království a Alžírsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826031","Spojené království a Ázerbájdžán","Spojené království a Ázerbájdžán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826036","Spojené království a Austrálie","Spojené království a Austrálie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826076","Spojené království a Brazílie","Spojené království a Brazílie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826124","Spojené království a Kanada","Spojené království a Kanada","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826156","Spojené království a Čína","Spojené království a Čína","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826328","Spojené království a Guyana","Spojené království a Guyana","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826356","Spojené království a Indie","Spojené království a Indie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826364","Spojené království a Írán (islámská republika)","Spojené království a Írán (islámská republika)","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826484","Spojené království a Mexiko","Spojené království a Mexiko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826554","Spojené království a Nový Zéland","Spojené království a Nový Zéland","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826566","Spojené království a Nigérie","Spojené království a Nigérie","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826586","Spojené království a Pákistán","Spojené království a Pákistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826704","Spojené království a Vietnam","Spojené království a Vietnam","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826710","Spojené království a Jižní Afrika","Spojené království a Jižní Afrika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826840","Spojené království a Spojené státy","Spojené království a Spojené státy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826860","Spojené království a Uzbekistán","Spojené království a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"826887","Spojené království a Jemen","Spojené království a Jemen","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"831","Guernsey","Guernsey","2009-01-01","9999-09-09","GG"
+"CS","LSTOBC",3228,"832","Jersey","Jersey","2009-01-01","9999-09-09","JE"
+"CS","LSTOBC",3228,"833","Ostrov Man","Ostrov Man","2009-01-01","9999-09-09","IM"
+"CS","LSTOBC",3228,"834","Tanzanie","Tanzanská sjednocená republika","2009-01-01","9999-09-09","TZ"
+"CS","LSTOBC",3228,"84","Belize","Belize","2009-01-01","9999-09-09","BZ"
+"CS","LSTOBC",3228,"840","Spojené státy","Spojené státy americké","2009-01-01","9999-09-09","US"
+"CS","LSTOBC",3228,"840860","Spojené státy a Uzbekistán","Spojené státy a Uzbekistán","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"8496","Albánie a Mongolsko","Albánie a Mongolsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"850","Americké Panenské ostrovy","Americké Panenské ostrovy","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"854","Burkina Faso","Burkina Faso","2009-01-01","9999-09-09","BF"
+"CS","LSTOBC",3228,"858","Uruguay","Uruguayská východní republika","2009-01-01","9999-09-09","UY"
+"CS","LSTOBC",3228,"858862","Uruguay a Venezuela","Uruguay a Venezuela","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"860","Uzbekistán","Republika Uzbekistán","2009-01-01","9999-09-09","UZ"
+"CS","LSTOBC",3228,"862","Venezuela","Bolívarovská republika Venezuela","2009-01-01","9999-09-09","VE"
+"CS","LSTOBC",3228,"8688","Albánie a Srbsko","Albánie a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"876","Wallis a Futuna","Ostrovy Wallis a Futuna","2009-01-01","9999-09-09","WF"
+"CS","LSTOBC",3228,"8807","Albánie a Makedonie, bývalá jugoslávská republika","Albánie a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"882","Samoa","Nezávislý stát Samoa","2009-01-01","9999-09-09","WS"
+"CS","LSTOBC",3228,"887","Jemen","Jemenská republika","2009-01-01","9999-09-09","YE"
+"CS","LSTOBC",3228,"894","Zambie","Zambijská republika","2009-01-01","9999-09-09","ZM"
+"CS","LSTOBC",3228,"896","Hongkong","Hongkong","2009-01-01","9999-09-09",
+"CS","LSTOBC",3228,"90","Šalomounovy ostrovy","Šalomounovy ostrovy","2009-01-01","9999-09-09","SB"
+"CS","LSTOBC",3228,"900","bez státního občanství","bez státního občanství","2009-01-01","9999-09-09","STLS"
+"CS","LSTOBC",3228,"904","Česká republika a Afghánistán","Česká republika a Islámská republika Afghánistán","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"908","Česká republika a Albánie","Česká republika a Albánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"912","Česká republika a Alžírsko","Česká republika a Alžírská lidová demokratická republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"92","Britské Panenské ostrovy","Britské Panenské ostrovy","2009-01-01","9999-09-09","VG"
+"CS","LSTOBC",3228,"920","Česká republika a Andorra","Česká republika a Andorrské knížectví","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"924","Česká republika a Angola","Česká republika a Angolská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"928","Česká republika a Antigua a Barbuda","Česká republika a Antigua a Barbuda","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"931","Česká republika a Ázerbájdžán","Česká republika a Ázerbájdžánská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"932","Česká republika a Argentina","Česká republika a Argentinská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"936","Česká republika a Austrálie","Česká republika a Austrálie","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"940","Česká republika a Rakousko","Česká republika a Rakouská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"944","Česká republika a Bahamy","Česká republika a Bahamské společenství","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"948","Česká republika a Bahrajn","Česká republika a Království Bahrajn","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"95","Republika Kosovo","Republika Kosovo","2009-01-01","9999-09-09","EUR_OTH"
+"CS","LSTOBC",3228,"950","Česká republika a Bangladéš","Česká republika a Bangladéšská lidová republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"951","Česká republika a Arménie","Česká republika a Arménská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"952","Česká republika a Barbados","Česká republika a Barbados","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"956","Česká republika a Belgie","Česká republika a Belgické království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"95643","Kosovo a Ruská federace","Kosovo a Ruská federace","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"95688","Kosovo a Srbsko","Kosovo a Srbsko","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"95804","Kosovo a Ukrajina","Kosovo a Ukrajina","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"95807","Kosovo a Makedonie, bývalá jugoslávská republika","Kosovo a Makedonie, bývalá jugoslávská republika","2021-01-01","9999-09-09",
+"CS","LSTOBC",3228,"96","Brunej Darussalam","Brunej Darussalam","2009-01-01","9999-09-09","BN"
+"CS","LSTOBC",3228,"960","Česká republika a Bermudy","Česká republika a Bermudy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"964","Česká republika a Bhútán","Česká republika a Bhútánské království","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"968","Česká republika a Bolívie","Česká republika a Bolivijská republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"970","Česká republika a Bosna a Hercegovina","Česká republika a Bosna a Hercegovina","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"972","Česká republika a Botswana","Česká republika a Republika Botswana","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"976","Česká republika a Brazílie","Česká republika a Brazilská federativní republika","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"984","Česká republika a Belize","Česká republika a Belize","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"990","Česká republika a Šalomounovy ostrovy","Česká republika a Šalomounovy ostrovy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"992","Česká republika a Britské Panenské ostr.","Česká republika a Britské Panenské ostrovy","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"995","Česká republika a Kosovo","Česká republika a Kosovo","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"996","Česká republika a Brunej Darussalam","Česká republika a Brunej Darussalam","2009-01-01","9999-09-09","NAT"
+"CS","LSTOBC",3228,"9999","Nezjištěno","Nezjištěno","2009-01-01","9999-09-09","UNK"
